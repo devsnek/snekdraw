@@ -1,0 +1,23 @@
+{
+  "name": "snekdraw",
+  "version": "1.0.0",
+  "description": "wrapper for canvas",
+  "main": "src/index.js",
+  "dependencies": {
+    "canvas": "^1.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gus Caplan <me@gus.host>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guscaplan/snekdraw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guscaplan/snekdraw/issues"
+  },
+  "homepage": "https://github.com/guscaplan/snekdraw#readme"
+}
